@@ -22,6 +22,7 @@ OUTPUT Number input image....
 Number Identified Number Plate..
 
 ![image](https://user-images.githubusercontent.com/91555391/135124055-a70647da-0401-4d95-a230-a093f468b878.png)
+
 CUDA not available - defaulting to CPU. Note: This module is much faster with a GPU.
 Downloading detection model, please wait. This may take several minutes depending upon your network connection.
 Downloading recognition model, please wait. This may take several minutes depending upon your network connection. 
