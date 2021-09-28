@@ -1,2 +1,2 @@
-# Automatic-NUmber-Plate-Recognition
+# Automatic-Number-Plate-Recognition
 
